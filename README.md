@@ -12,8 +12,7 @@
 - I enjoy traveling
 - I love to experiment new sensations
 
-<img src="https://github.com/auszed/auszed/blob/main/img/cat_image.jpeg" alt="Awesome Matrix Code" align="right" width="1200" height="500" />
-
+<img src="https://github.com/auszed/auszed/blob/main/img/cat_image.png" alt="Awesome Matrix Code" align="right" width="1200" height="500" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=auszed&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
