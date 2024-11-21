@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋 i love computers and love talking about finance
 
-<!--
-**auszed/auszed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![cat_image.jpeg](img/Fcat_image.jpeg)
+<img src = '/img' alt = 'Awesome Matrix Code' align='right'/>
 
-Here are some ideas to get you started:
+🌱 I’m currently learning
+- Deep learning for NLP 
+- NLP
+- Computer vision
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Always ready to collaborate for Dev Experiments
+🤔 I’m looking for help with Reinforcement learning and synthetic data creation
+
+⚡ Fun fact:
+- I enjoy traveling
+- I love to experiment new sensations
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=auszed&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+## ❤️ Let's get connected:
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/hanns-juarez/)
+
+
