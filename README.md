@@ -1,7 +1,7 @@
 # Hi there 👋 i love computers and love talking about finance
 
 ![cat_image.jpeg](img/Fcat_image.jpeg)
-<img src = '/img' alt = 'Awesome Matrix Code' align='right'/>
+<img src = '[/img](https://github.com/auszed/auszed/blob/main/img/cat_image.jpeg)' alt = 'Awesome Matrix Code' align='right'/>
 
 🌱 I’m currently learning
 - Deep learning for NLP 
