@@ -1,7 +1,7 @@
 # Hi there 👋 i love computers and love talking about finance
 
 🌱 I’m currently learning
-- Deep learning for NLP 
+- Model deployment in the cloud
 - NLP
 - Computer vision
 
@@ -10,7 +10,8 @@
 
 ⚡ Fun fact:
 - I enjoy traveling
-- I love to experiment new sensations
+- Fan of the pizza
+
 
 <img src="https://github.com/auszed/auszed/blob/main/img/cat_image.png" alt="Awesome Matrix Code" align="right" width="1200" height="500" />
 
