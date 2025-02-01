@@ -2,8 +2,8 @@
 
 🌱 I’m currently learning
 - Model deployment in the cloud
-- NLP
-- Computer vision
+- Prompt engineer
+- Ai engineer
 
 🚀 Always ready to collaborate for Dev Experiments
 🤔 I’m looking for help with Reinforcement learning and synthetic data creation
