@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning
 - Model deployment in the cloud
-- Prompt engineer
+- RAG
 - Ai engineer
 
 🚀 Always ready to collaborate for Dev Experiments
