@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning
 - Model deployment in the cloud
-- RAG
+- Deep learning time series analysis
 - Ai engineer
 
 🚀 Always ready to collaborate for Dev Experiments
